@@ -5,8 +5,8 @@ This is a simple set of scripts that allow you to turn an ESP32-S3 running Circu
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will need an ESP32 or other controller running CircuitPython, any controller that has wifi and can run Circuit Python should be fine. 
-[Link below to the one I like.](https://www.adafruit.com/product/5691)
+You will need an ESP32 or other controller running CircuitPython, any controller that has wifi and can run Circuit Python should be fine. Most Adafruit CircuitPython boards will work, there are many available form factors and price ranges.
+[This is the one I use.](https://www.adafruit.com/product/5691)
 
 A settings.toml
 [Review the "Simple Test" example](https://docs.circuitpython.org/projects/httpserver/en/latest/examples.html)
