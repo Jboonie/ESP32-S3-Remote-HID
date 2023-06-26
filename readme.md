@@ -9,7 +9,7 @@ You will need an ESP32 or other controller running CircuitPython, any controller
 [Link below to the one I like.](https://www.adafruit.com/product/5691)
 
 A settings.toml
-[Review the "Simple Test" example](https://docs.circuitpython.org/projects/httpserver/en/latest/examples.html#url-parameters-and-wildcards)
+[Review the "Simple Test" example](https://docs.circuitpython.org/projects/httpserver/en/latest/examples.html)
 
 [Appropriate Circuity Python Libraries](https://circuitpython.org/libraries)
 
