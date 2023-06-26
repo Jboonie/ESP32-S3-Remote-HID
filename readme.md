@@ -11,7 +11,7 @@ You will need an ESP32 or other controller running CircuitPython, any controller
 A settings.toml
 [Review the "Simple Test" example](https://docs.circuitpython.org/projects/httpserver/en/latest/examples.html)
 
-[Appropriate Circuity Python Libraries](https://circuitpython.org/libraries)
+[Appropriate Circuity Python Libraries](https://circuitpython.org/libraries), [Adafruit_CircuitPython_HID](https://github.com/adafruit/Adafruit_CircuitPython_HID)
 
 ## Routes
 
