@@ -1,0 +1,61 @@
+{
+  "routes": [
+    {
+      "id": "leftclick",
+      "route": "/leftclick",
+      "parameters": "None"
+    },
+    {
+      "id": "rightclick",
+      "route": "/rightclick",
+      "parameters": "None"
+    },
+    {
+      "id": "move",
+      "route": "/move",
+      "parameters": [
+        {
+          "id": "x",
+          "key": "x",
+          "type": "Int"
+        },
+        {
+          "id": "y",
+          "key": "y",
+          "type": "Int"
+        },
+        {
+          "id": "time",
+          "key": "t",
+          "type": "Int, miliseconds (1000 == 1s)"
+        }
+      ]
+    },
+    {
+      "id": "drag",
+      "route": "/drag",
+      "parameters": [
+        {
+          "id": "x",
+          "key": "x",
+          "type": "Int"
+        },
+        {
+          "id": "y",
+          "key": "y",
+          "type": "Int"
+        },
+        {
+          "id": "time",
+          "key": "t",
+          "type": "Int, miliseconds (1000 == 1s)"
+        },
+        {
+          "id": "button",
+          "key": "button",
+          "type": "string, right or left"
+        }
+      ]
+    }
+  ]
+}
